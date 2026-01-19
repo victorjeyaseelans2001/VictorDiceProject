@@ -1,2 +1,2 @@
 # VictorDiceProject
-Dice Project Using Javascript
+Dice Project Using Javascriptt
